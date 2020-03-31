@@ -1,0 +1,6 @@
+framework module Pods_fakeAppleMusic {
+  umbrella header "Pods-fakeAppleMusic-umbrella.h"
+
+  export *
+  module * { export * }
+}
